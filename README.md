@@ -50,15 +50,15 @@
   <a href="https://www.instagram.com/ur_ayush2408/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="ayushcoder.07@gmail.com" target="_blank">
+  <a href="mailto:ayushcoder.07@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyushCoder-gh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyushCoder-gh&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCoder-gh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-stats-extended.vercel.app/api?username=AyushCoder-gh&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=AyushCoder-gh&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyushCoder-gh&icon=0&color=0)](https://visitcount.itsvg.in)
